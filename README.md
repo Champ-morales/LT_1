@@ -1,6 +1,6 @@
 # LT_1
 
-## Code
+## Code Link
 
 https://github.com/Champ-morales/LT_1.git
 
