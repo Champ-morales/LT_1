@@ -24,7 +24,7 @@ This program calculates the total boxes received and how many boxes can be packe
 ## Sample Output
 
 How many notebooks total: 200
-How many notebooks per box: 15
+How many notebooks per box: 15 
 There will be 13 full boxes and 5 notebook/s go in a loose pack.
 
 ## Author
