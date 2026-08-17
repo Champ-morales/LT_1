@@ -1,5 +1,9 @@
 # LT_1
 
+## Code
+
+https://github.com/Champ-morales/LT_1.git
+
 ## Description
 
 This program calculates the total boxes received and how many boxes can be packed, and shows how many notebooks will go to a loose pack.
